@@ -26,5 +26,4 @@ export default async function Home({
         </div>
     );
 }
-<script type='text/javascript' src='//pl23426063.highrevenuenetwork.com/74/bb/69/74bb6985f50b8b122307db6b2714b207.js'></script>
-<script type='text/javascript' src='//pl23426081.highrevenuenetwork.com/58/a5/8c/58a58c48f27435dc062154e664b37b6e.js'></script>
+
